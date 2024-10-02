@@ -1,0 +1,16 @@
+html{
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+}
+.lasagna-image{
+    float: right;
+    margin-top: 110px;
+    border: 1px solid black;
+}
+
+.ordered li{
+    display: block;
+    width: 750px;
+}
